@@ -457,7 +457,7 @@ Agricultural outcomes depend on many factors beyond environmental control.
 
 <div align="center">
 
-**Cloud Mushroom · Mysuru, Karnataka, India · 2025**
+**Cloud Mushroom · Mysuru, Karnataka, India · 2026**
 
 *Precision cultivation through precision engineering.*
 
