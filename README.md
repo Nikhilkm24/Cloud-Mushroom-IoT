@@ -959,7 +959,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
 **Designed, built, and deployed by Nikhil Mahesh**  
 *Hardware · Firmware · Cloud · Safety Engineering*  
-Cloud Mushroom Operations Centre · Mysuru, Karnataka, India · 2025
+Cloud Mushroom Operations Centre · Mysuru, Karnataka, India · 2026
 
 ☁️🍄
 
