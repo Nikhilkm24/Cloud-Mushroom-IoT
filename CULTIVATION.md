@@ -442,7 +442,7 @@ This guide is maintained as part of the Cloud Mushroom Operations Centre reposit
 ## 11. License
 
 ```
-Copyright © 2025 Nikhil Mahesh
+Copyright © 2026 Nikhil Mahesh
 Cloud Mushroom — Cultivation Guide — All Rights Reserved
 
 This document is made available for educational and portfolio reference purposes only.
