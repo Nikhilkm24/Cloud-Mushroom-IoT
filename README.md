@@ -941,7 +941,7 @@ If you are building a similar system and have questions, feel free to open an is
 ## 14. License
 
 ```
-Copyright © 2025 Nikhil Mahesh
+Copyright © 2026 Nikhil Mahesh
 Cloud Mushroom Operations Centre — All Rights Reserved
 
 This repository is made available for educational and portfolio reference purposes only.
